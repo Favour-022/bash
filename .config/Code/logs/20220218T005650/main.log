@@ -1,0 +1,7 @@
+[2022-02-18 00:56:50.788] [main] [info] update#setState idle
+[2022-02-18 00:56:51.287] [main] [info] ExtensionHostStarterWorker created
+[2022-02-18 00:56:57.462] [main] [info] Starting extension host with pid 726 (fork() took 130 ms).
+[2022-02-18 00:56:57.471] [main] [info] ExtensionHostStarterWorker.start() took 183 ms.
+[2022-02-18 00:57:01.133] [main] [warning] Switching to using in-memory credential store instead because Keytar failed to load: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+[2022-02-18 00:57:20.799] [main] [info] update#setState checking for updates
+[2022-02-18 00:57:21.101] [main] [info] update#setState idle

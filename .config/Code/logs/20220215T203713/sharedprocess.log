@@ -1,0 +1,5 @@
+[2022-02-15 20:37:31.638] [sharedprocess] [info] Starting worker process with pid 454 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-02-15 20:37:32.528] [sharedprocess] [info] Deleted from disk formulahendry.code-runner /home/amarafavour022/.vscode/extensions/formulahendry.code-runner-0.11.6
+[2022-02-15 20:56:04.338] [sharedprocess] [info] Starting worker process with pid 744 (type: watcherServiceParcelSharedProcess, window: 3).
+[2022-02-15 20:56:12.037] [sharedprocess] [info] Worker process with pid 454 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-02-16 00:16:15.632] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

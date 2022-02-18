@@ -1,0 +1,7 @@
+[2022-02-15 14:02:46.628] [sharedprocess] [info] Starting worker process with pid 452 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-02-15 14:03:14.565] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2022-02-15 14:03:36.773] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /home/amarafavour022/.config/Code/CachedExtensionVSIXs/formulahendry.code-runner-0.11.7
+[2022-02-15 14:03:39.051] [sharedprocess] [info] Extracted extension to /home/amarafavour022/.vscode/extensions/.bbededa3-6b95-462b-a5f6-057076f8ed35: formulahendry.code-runner
+[2022-02-15 14:03:39.099] [sharedprocess] [info] Renamed to /home/amarafavour022/.vscode/extensions/formulahendry.code-runner-0.11.7
+[2022-02-15 14:03:39.135] [sharedprocess] [info] Extracting completed. formulahendry.code-runner
+[2022-02-15 14:03:39.187] [sharedprocess] [info] Extension installed successfully: formulahendry.code-runner
